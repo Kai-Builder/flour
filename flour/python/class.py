@@ -8,5 +8,5 @@ class Sweets():
 class milk():
     calcium = True
     milk = milk
-    for True in milk.calcium:
+    if calcium == True:
         print('You are getting your daily calc!')
