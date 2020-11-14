@@ -1,5 +1,5 @@
 # flour
-Flour Is A Simple Library Made for the Coders who want to have a sweet tooth while coding. Made For Python. Even C++ Or Lua if you know how to do that kind of stuff.
+Flour Is A Simple Library Made for the Coders who want to have a sweet tooth while coding. Made For Python, Or Ruby. Even C++ Or Lua if you know how to do that kind of stuff.
 
 
 # How to use flour
