@@ -5,5 +5,5 @@ Flourscript is a basic language, which is really a compiled version of **python*
 
 # Why?
 Flour (CL) is a library built for fun, energetic themed type code, coming with about 20 pre-packed variables for every type of candy/sweet lover out there.
-
+The Flour API Currently only supports python, It is getting support for more languages as time comes.
 
