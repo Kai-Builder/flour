@@ -1,20 +1,9 @@
 # flour
-Flour Is A Simple Library Made for the Coders who want to have a sweet tooth while coding. Made For Python. Even C++ Or Lua if you know how to do that kind of stuff.
+flour also goes by the name candylibrary, or candylib for short.
+Flour serves no purpose except for its basic/compiled "**flourscript**" Based on python's language, just compiled and made for C++/Ruby/Lua.
+Flourscript is a basic language, which is really a compiled version of **python**.
+
+# Why?
+Flour (CL) is a library built for fun, energetic themed type code, coming with about 20 pre-packed variables for every type of candy/sweet lover out there.
 
 
-# How to use flour
-For python users:
-```
-from flour import *
-```
-
-For Lua users:
-```
-require('Flour')
-```
-For C++ Users:
-```
-#include <CONT/Bread.h>
-```
-Flour is mainly made for *"Memetic"* Type things, Like Text games, memes, programs, etc.
-if you enjoy, Give it a star! Thanks!
