@@ -5,16 +5,16 @@ Flour Is A Simple Library Made for the Coders who want to have a sweet tooth whi
 # How to use flour
 For python users:
 ```
-from flour import *
+from flour.flour.python import *
 ```
 
 For Lua users:
 ```
-require('Flour')
+require('flour/lua')
 ```
 For C++ Users:
 ```
-#include <CONT/Bread.h>
+#include <CONT.h/Bread.h>
 ```
 Flour is mainly made for *"Memetic"* Type things, Like Text games, memes, programs, etc.
 if you enjoy, Give it a star! Thanks!
